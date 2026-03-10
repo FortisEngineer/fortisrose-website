@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "title": "Parking Structure Assessment",
+      "category": "Assessment",
+      "year": 2025,
+      "location": "Tampa, FL",
+      "image": "https://placehold.co/800x600",
+      "description": "Condition assessment and stamped report with remediation priorities.",
+      "link": "#"
+    },
+    {
+      "title": "Tenant Improvement Design",
+      "category": "Design",
+      "year": 2024,
+      "location": "St. Petersburg, FL",
+      "image": "https://placehold.co/800x600",
+      "description": "Light structural framing and details for interior buildout.",
+      "link": "#"
+    },
+    {
+      "title": "Balcony Inspection Program",
+      "category": "Inspection",
+      "year": 2026,
+      "location": "Sarasota, FL",
+      "image": "https://placehold.co/800x600",
+      "description": "Field inspections and reporting for multi\u2011family HOA.",
+      "link": "#"
+    }
+  ]
+}
